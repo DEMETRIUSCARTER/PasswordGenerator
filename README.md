@@ -24,7 +24,7 @@ Random password generator.
 Visual studio Code
 
 ## Project Status
-Application currently not functioning 
+Application currently not functioning. Was unable to debugg my code once button function stopped working. 
 
 ## Contact
 Created by Demetrius Carter
